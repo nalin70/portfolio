@@ -80,9 +80,8 @@
 }
 
 body {
-    background: linear-gradient(110deg, #fdcd3b 60%, #ffed4b 60%);
-    /* background: linear-gradient(110deg, rgb(57, 93, 240) 60%, #3886eb 60%); */
+    /* background: linear-gradient(110deg, #fdcd3b 60%, #ffed4b 60%); */
+    background: linear-gradient(110deg, rgb(57, 93, 240) 60%, #3886eb 60%);
     /* background: linear-gradient(-70deg, #fa7c30 30%, rgba(0, 0, 0, 0) 30%), url('about.jpg'); */
     /* background-image: linear-gradient(to bottom right, red, yellow); */
 }
-
